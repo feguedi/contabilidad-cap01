@@ -1,0 +1,16 @@
+{
+  "activoCirculante": 70000,
+  "pasivoCirculante": 300000,
+  "inventario": 300000,
+  "pasivoTotal": 1000000,
+  "activoTotal": 2000000,
+  "utilidad": 200000,
+  "intereses": 70000,
+  "obligacionesAnuales": 28000,
+  "cargosFijos": 98000,
+  "ventas": 3000000,
+  "cuentasPorCobrar": 200000,
+  "activoFijo": 1300000,
+  "utilidadNeta": 120000,
+  "capitalNeto": 1000000
+}
